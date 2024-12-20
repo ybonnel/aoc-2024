@@ -1,0 +1,10 @@
+.idea
+bin
+obj
+*.user
+node_modules
+.temp
+.vscode
+secret.yaml
+.DS_Store
+.vs
